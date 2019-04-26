@@ -1,4 +1,2 @@
 Hi world!
 I have changed this text.
-Added on remote side.
-New line added.
